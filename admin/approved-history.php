@@ -156,7 +156,7 @@
                                                         <td>Leave Type</td>
                                                         <td>Applied On</td>
                                                         <td>Current Status</td>
-                                                        <td></td>
+                                                        <td>Action</td>
                                                     </tr>
                                                 </thead>
 
