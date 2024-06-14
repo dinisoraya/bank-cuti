@@ -190,7 +190,7 @@
                                                 <span style="color: red">Not Approved</span>
                                                  <?php } if($stats==0)  { ?>
 
-                                                <span style="color: blue">Pending</span>
+                                                <span style="color: orange">Pending</span>
                                                 <?php } ?>
 
                                              </td>
