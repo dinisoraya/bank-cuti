@@ -281,7 +281,7 @@
                                                  <?php } if($stats==2)  { ?>
                                                 <span style="color: red">Declined <i class="fa fa-times"></i></span>
                                                  <?php } if($stats==0)  { ?>
-                                            <span style="color: blue">Pending <i class="fa fa-spinner"></i></span>
+                                            <span style="color: orange">Pending <i class="fa fa-spinner"></i></span>
                                             <?php } ?>
 
 
